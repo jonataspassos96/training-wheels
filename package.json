@@ -1,0 +1,11 @@
+{
+  "name": "training-wheels",
+  "version": "1.0.0",
+  "description": "Projetos para aprender como manipular elementos da Web com Cypress",
+  "main": "index.js",
+  "author": "Jonatas Passos",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.4.0"
+  }
+}
