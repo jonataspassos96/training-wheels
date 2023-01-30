@@ -9,7 +9,7 @@ describe('Login', () => {
 
     cy.get('#login button[type=submit]').click()
 
-    cy.get('h3[class*="title"]')
+    cy.get('h3[class^="title"]')
       .should('have.text', 'Olá Papito, bem-vindo ao Orkut')
 
     const expectedText = 'Em breve você poderá participar de comunidades, adicionar amigos e deixar um Scraps. hahahahah'
