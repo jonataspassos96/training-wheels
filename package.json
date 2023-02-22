@@ -6,6 +6,8 @@
   "author": "Jonatas Passos",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^12.4.0"
+    "cypress": "^12.4.0",
+    "cypress-iframe": "^1.0.1",
+    "cypress-real-events": "^1.7.6"
   }
 }

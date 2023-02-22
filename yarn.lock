@@ -311,6 +311,16 @@ cross-spawn@^7.0.0:
     shebang-command "^2.0.0"
     which "^2.0.1"
 
+cypress-iframe@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/cypress-iframe/-/cypress-iframe-1.0.1.tgz#2a286cfd47a240aa9af0ad9f339f4c6f942089f8"
+  integrity sha512-Ne+xkZmWMhfq3x6wbfzK/SzsVTCrJru3R3cLXsoSAZyfUtJDamXyaIieHXeea3pQDXF4wE2w4iUuvCYHhoD31g==
+
+cypress-real-events@^1.7.6:
+  version "1.7.6"
+  resolved "https://registry.yarnpkg.com/cypress-real-events/-/cypress-real-events-1.7.6.tgz#6f17e0b2ceea1d6dc60f6737d8f84cc517bbbb4c"
+  integrity sha512-yP6GnRrbm6HK5q4DH6Nnupz37nOfZu/xn1xFYqsE2o4G73giPWQOdu6375QYpwfU1cvHNCgyD2bQ2hPH9D7NMw==
+
 cypress@^12.4.0:
   version "12.4.0"
   resolved "https://registry.yarnpkg.com/cypress/-/cypress-12.4.0.tgz#de695bc51aec9d995456077a9c3e0ddadfb105c6"
